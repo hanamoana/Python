@@ -1,0 +1,3 @@
+hrs=input("Enter your hours of the week:")
+rate=input("Enter your hourly rate:")
+print("Your pay of the week is $"float(hrs)*float(rate))
